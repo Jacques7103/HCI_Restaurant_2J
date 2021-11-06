@@ -13,7 +13,45 @@ body {
 .header h1 {
     color: white;
     font-size: 100px;
-    padding-left: 30px;
-    padding-top: 10px;
+    padding-top: 300px;
     margin: 0 auto;
+    text-align: center;
+}
+
+.header-list a{
+    float: left;
+    color: #E1D4C5;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 11px;
+    text-decoration: none;
+}
+
+.header-list {
+    float: left;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #393232;
+    width: 2000px;
+}
+
+.header-list a:hover {
+    color: black;
+}
+
+.header-list a.home {
+    /* background-color: red; */
+    font-size: 50px;
+    margin-top: 0px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.header-list a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 525px;
+    text-align: center;
 }
