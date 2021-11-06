@@ -1,4 +1,4 @@
-.background-image {
+body {
     background-image: url(Restaurant-photo.jpg);
     background-size: cover;
     height: 105%;
@@ -8,11 +8,10 @@
     bottom: -5px;
     position: fixed;
     margin: 0 auto;
-    filter: blur(3px);
 }
 
 .header h1 {
-    color:black;
+    color: white;
     font-size: 100px;
     padding-left: 30px;
     padding-top: 10px;
