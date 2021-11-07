@@ -1,0 +1,141 @@
+body {
+    background-image: url(Restaurant-photo.jpg);
+    background-size: cover;
+    height: 105%;
+    left: -5px;
+    right: -5px;
+    top: -5px;
+    bottom: -5px;
+    position: fixed;
+    margin: 0 auto;
+}
+
+.header-list a{
+    float: left;
+    color: #E1D4C5;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.header-list {
+    float: left;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #021320;
+    width: 1698px;
+    opacity: 0.8;
+}
+
+.header-list a:hover {
+    color: black;
+}
+
+.header-list a.home {
+    font-size: 50px;
+    margin-top: 13px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.menu a {
+    float: right;
+    padding-right: 27px;
+}
+
+.food1 {
+    padding-left: 100px;
+    max-width: 100%;
+    position: fixed;
+    float: left;
+}
+
+.food2 {
+    max-width: 100%;
+    position: static;
+}
+
+.food3 {
+    max-width: 100%;
+    position: fixed;
+    float: right;
+}
+
+.food1 h1 {
+    margin-top: 120px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.food1 h2 {
+    margin-top: 40px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.food1 p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 7px;
+}
+
+.img3 {
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+.img4 {
+    margin-top: -17px;
+    margin-left: 25px;
+}
+
+.food2 h1{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+    font-size: 40px;
+}
+
+.food2 h2 {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.img1 {
+    margin-top: -10px;
+    margin-left: 650px;
+}
+
+.img2 {
+    margin-top: -25px;
+    margin-left: 689px;
+}
+
+.food2 p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 13px;
+    margin-left: -20px;
+}
+
+.food3 h1 {
+    color: white;
+    float: right;
+    font-size: 40px;
+    padding-right: 100px;
+}
+
+.img5 {
+
+}

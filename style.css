@@ -10,21 +10,16 @@ body {
     margin: 0 auto;
 }
 
-.header h1 {
-    color: white;
-    font-size: 100px;
-    padding-top: 300px;
-    margin: 0 auto;
-    text-align: center;
-}
-
 .header-list a{
     float: left;
     color: #E1D4C5;
     font-size: 40px;
     text-align: center;
-    margin-top: 11px;
+    margin-top: 15px;
     text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
 }
 
 .header-list {
@@ -32,8 +27,9 @@ body {
     padding-left: 15px;
     padding-top: 7px;
     padding-bottom: 7px;
-    background-color: #393232;
-    width: 2000px;
+    background-color: #021320;
+    width: 1698px;
+    opacity: 0.8;
 }
 
 .header-list a:hover {
@@ -41,17 +37,21 @@ body {
 }
 
 .header-list a.home {
-    /* background-color: red; */
     font-size: 50px;
-    margin-top: 0px;
+    margin-top: 13px;
     border-radius: 8px;
-    font-weight: bold;
+    padding-left: 10px;
 }
 
-.header-list a {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 525px;
+.menu a {
+    float: right;
+    padding-right: 27px;
+}
+
+.header h1 {
+    color: white;
+    font-size: 100px;
+    padding-top: 300px;
+    margin: 0 auto;
     text-align: center;
 }
