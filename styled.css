@@ -1,5 +1,5 @@
 body {
-    background-image: url(Restaurant-photo.jpg);
+    background-image: url(Background_2.png);
     background-size: cover;
     height: 105%;
     left: -5px;
@@ -29,7 +29,6 @@ body {
     padding-bottom: 7px;
     background-color: #021320;
     width: 1698px;
-    opacity: 0.8;
 }
 
 .header-list a:hover {
@@ -48,7 +47,7 @@ body {
     padding-right: 27px;
 }
 
-.menu div {
+.menu1 div {
     color: white;
     font-size: 20px;
     margin-top: -10px;
@@ -58,7 +57,7 @@ body {
     box-sizing: border-box;
 }
 
-.menu p {
+.menu1 p {
     padding: 20px;
     font-size: 25px;
     margin-top: -10px;
