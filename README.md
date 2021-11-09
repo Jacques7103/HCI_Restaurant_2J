@@ -13,8 +13,14 @@ foods.html = Page that contain the menu of pizza that are availaible in our stor
 
 drinks.html = Page that contain the menu of sides and drinks that are availaible in our store
 
-style.css = CSS file that are used for home.html
+style.css = CSS file that is use for home.html
 
-stylef.css = CSS file that are used for foods.html
+stylef.css = CSS file that is use for foods.html
 
-styled.css = CSS file that are used for drinks.html
+styled.css = CSS file that is use for drinks.html
+
+Background.jpg = The photo that is use for foods.html and drinks.html background image
+
+Logo.png = The logo that is use in our home.html page
+
+Restaurant-photo.jpg = The photo that is use for home.html background image
