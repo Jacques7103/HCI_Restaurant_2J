@@ -24,3 +24,5 @@ Background.jpg = The photo that is use for foods.html and drinks.html background
 Logo.png = The logo that is use in our home.html page
 
 Restaurant-photo.jpg = The photo that is use for home.html background image
+
+sketch.pdf = Sketch for the restaurant website
