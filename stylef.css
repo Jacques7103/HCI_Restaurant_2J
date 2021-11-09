@@ -1,12 +1,12 @@
 body {
-    background-image: url(Background_2.png);
+    background-image: url(Background.jpg);
     background-size: cover;
-    height: 105%;
+    height: 100%;
     left: -5px;
     right: -5px;
     top: -5px;
     bottom: -5px;
-    position: fixed;
+    position: absolute;
     margin: 0 auto;
 }
 

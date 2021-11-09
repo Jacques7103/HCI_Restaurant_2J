@@ -1,12 +1,12 @@
 body {
-    background-image: url(Background_2.png);
+    background-image: url(Background.jpg);
     background-size: cover;
-    height: 105%;
+    height: 80%;
     left: -5px;
     right: -5px;
     top: -5px;
     bottom: -5px;
-    position: fixed;
+    position: absolute;
     margin: 0 auto;
 }
 
@@ -25,7 +25,7 @@ body {
 .header-list {
     float: left;
     padding-left: 15px;
-    padding-top: 7px;
+    padding-top: px;
     padding-bottom: 7px;
     background-color: #021320;
     width: 1698px;
@@ -70,7 +70,7 @@ body {
 }
 
 .drink1 h2 {
-    margin-top: -25px;
+    margin-top: -5px;
     font-size: 40px;
 }
 
