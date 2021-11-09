@@ -4,7 +4,7 @@ Class : L1AC
 Group Members : Ferdinand Jacques & Jonathan Prasetyo
 Group Name : 2J
 
-#File Directory
+# File Directory
 home.html = The home page for the restaurant website
 foods.html = Page that contain the menu of pizza that are availaible in our store
 drinks.html = Page that contain the menu of sides and drinks that are availaible in our store
