@@ -6,7 +6,7 @@ body {
     right: -5px;
     top: -5px;
     bottom: -5px;
-    position: absolute;
+    position: fixed;
     margin: 0 auto;
 }
 
